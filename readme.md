@@ -4,7 +4,7 @@
 An autonomous racing car AI trained using Unity ML-Agents to navigate a race track optimally. The agent learns to complete the track quickly while avoiding boundaries through reinforcement learning.
 
 ## 🎮 Demo
-[Link to video] (https://github.com/vaiv26/LearningToDriveNN/blob/main/ProjectVideo.mp4)
+[Link to video] (https://drive.google.com/file/d/16PRaif8Wwnaeo4mOL7rkzXJYwCqtwASG/view?usp=sharing)
 
 ### Key Features
 - Reinforcement learning implementation for autonomous driving
